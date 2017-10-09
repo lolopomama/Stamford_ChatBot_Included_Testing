@@ -1,0 +1,6 @@
+ITE222 Web Development 2
+ITE365 Software Quality Management
+ITE446 Current Topics in Software Engineering
+ITE220 Programming 1
+ITE200 Circuit Analysis
+

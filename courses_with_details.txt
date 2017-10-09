@@ -1,0 +1,17 @@
+   ITE231      |Fundimentals of System Administration | 10:30-12:30 | Tuesdays and Fridays | Ike
+   ITE221      |Programming 1                         | 8:30-10:30  | Tuesdays and Fridays | Appiporn 
+   ITE101      |Introduction to IT                    | 12:30-2:30  | Mondays and Thursday | Parvel 
+   ITE442      |Database Managment Systems            | 8:30-12:30  |    Wednesdays        | Apiporn
+   MIS103      |Computer Applications                 | 2:30-4:30   | Tuesdays and Thursday| Aticom
+   ITE479      |Project Planning                      | 8:30-10:30  | Mondays and Fridays  | Chaky
+   ITE340      |E-commerce Systems                    | 2:30-4:30   |    Wednesdays        | Tommas
+   ITE220      |Web Development 2                     | 8:30-12:30  | Tuesdays and Fridays | Parvel
+   ITE420      |Information and System Security       | 12:30-2:30  | Mondays and Fridays  | Aticom
+   ITE365      |Software Quality Management           | 10:30-12:30 |    Wednesdays        | Appiporn
+   ITE331      |Multimedia Technologies               | 8:30-12:30  |    Saturday          | Chaky
+   ITE210      |Ethics and Law for IT                 | 12:30-2:30  | Mondays and Thursday | Parvel
+   ITE446      |Current Topics in S.E|                | 2:30-4:30   | Tuesdays and Fridays | Aticom
+   ITE201      |Service Desk and Incident Management  | 4:30-6:30   | Mondays and Thursday | Ike
+   ITE447      |Current Topics in Web Technology      | 8:30-12:30  |    Wednesdays        | Tommas
+   ITE240      |Principles of Operating Systems       | 2:30-4:30   |    Wednesdays        | Tommas
+ 

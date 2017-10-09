@@ -1,0 +1,17 @@
+ITE231 Fundimentals of System Administration
+ITE221 Programming 1
+ITE101 Introduction to IT
+ITE442 Database Managment Systems
+MIS103 Computer Applications
+ITE479 Project Planning
+ITE340 E-commerce Systems
+ITE220 Web Development 2
+ITE420 Information and System Security
+ITE365 Software Quality Management
+ITE331 Multimedia Technologies
+ITE210 Ethics and Law for IT
+ITE446 Current Topics in Software Engineering
+ITE201 Service Desk and Incident Management
+ITE447 Current Topics in Web Technology
+ITE240 Principles of Operating Systems
+ 
